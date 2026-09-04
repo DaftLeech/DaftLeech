@@ -5,7 +5,7 @@ I am a professional database engineer and an independent game modder and softwar
 ## Project Zomboid Mods
 
 * **[Leechs Event Logger](https://steamcommunity.com/sharedfiles/filedetails/?id=3791767812)** - Administration tool designed to track and log events.
-* **[Leechs World Cleanup]((https://steamcommunity.com/sharedfiles/filedetails/?id=3789392008))** - A server optimization tool.
+* **[Leechs World Cleanup](https://steamcommunity.com/sharedfiles/filedetails/?id=3789392008)** - A server optimization tool.
 * **[Leechs Restart Announcer](https://steamcommunity.com/sharedfiles/filedetails/?id=3790419650)** - A utility for server schedule details, automated warnings, or reboot timers.
 * **[Leechs SpawnRegions Unlocked](https://steamcommunity.com/sharedfiles/filedetails/?id=3789870356)** - A mod that opens up restrictions on default player spawn zones.
 
